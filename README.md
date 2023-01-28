@@ -47,7 +47,7 @@
     <br />
     Now I wish to apply what I have
     learned, for growing professionally.
-
+    <br />
     I love <a href="https://friend.chess.com/gKec9">chess</a>, literature and movies....
     <a href="https://genoacfc.it/">Genoa CFC fan</a>
 </p>
