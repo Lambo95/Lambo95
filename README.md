@@ -10,16 +10,16 @@
 <p>
     💻 I am currently learning and improving in:
 </p>
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>BOOTSTRAP</li>
-    <li>JAVASCRIPT</li>
-    <li>TYPESCRIPT</li>
-    <li>ANGULAR</li>
-    <li>.NET</li>
-    <li>JAVA</li>
-    <li>SQL SERVER Management Studio</li>
+<ul style="list-style: none;">
+    <li>⚡HTML</li>
+    <li>⚡CSS</li>
+    <li>⚡BOOTSTRAP</li>
+    <li>⚡JAVASCRIPT</li>
+    <li>⚡TYPESCRIPT</li>
+    <li>⚡ANGULAR</li>
+    <li>⚡.NET</li>
+    <li>⚡JAVA</li>
+    <li>⚡SQL SERVER Management Studio</li>
 </ul>
 <p>and more...🔥</p>
 
